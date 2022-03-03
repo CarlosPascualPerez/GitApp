@@ -1,0 +1,20 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Height: =226
+        Text: ="Botón"
+        Width: =380
+        X: =153
+        Y: =99
+        ZIndex: =1
+
+    Label1 As label:
+        Align: =Align.Center
+        BorderThickness: =2
+        Height: =226
+        Text: ="Texto"
+        Width: =298
+        X: =766
+        Y: =99
+        ZIndex: =2
+
